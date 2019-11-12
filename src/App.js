@@ -47,7 +47,6 @@ function App() {
           <div
             class="coffee-header__display"
             onClick={status ? () => stop() : () => start()}
-            onTouchEnd={status ? () => stop() : () => start()}
           >
             {status ? 'Stop' : 'Start'}
           </div>
