@@ -39,7 +39,7 @@ function App() {
 
   return (
     <>
-      <div class="header">Auto Coffe</div>
+      <div class="header">Coffee 3000</div>
       <div class="container">
         <div class="coffee-header">
           <div class="coffee-header__buttons coffee-header__button-one"></div>
