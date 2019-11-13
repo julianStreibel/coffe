@@ -9,11 +9,10 @@
 
 .footer {
   width: 100%;
-  height: 100px;
-	position: absolute;
-	top: 80%;
-  font-size: 50px;
+  position: absolute;
+  top: 72%;
   text-align: center;
+  padding-top: 10px;
 }
 
 .container {
@@ -54,8 +53,10 @@
 }
 .coffee-header__button-two {
 	left: 50px;
+
 }
 .coffee-header__display {
+	cursor: pointer;
   text-align: center;
   line-height: 35px;
   color: #fff;
