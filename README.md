@@ -1,6 +1,6 @@
 ## Coffee Frontend
 
-This app is controlling my coffemashine.
+This app is controlling my coffee machine.
 You can set it to a specific time and set an automated stop so it isn´t heating the hole day.
 
 ## Getting Started
